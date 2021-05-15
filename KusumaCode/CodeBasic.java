@@ -6,7 +6,7 @@ public class CodeBasic {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Kusuma");
+		System.out.println("Kushi");
 	}
 
 }
